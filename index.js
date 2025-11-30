@@ -22,8 +22,8 @@ function saveUsers() {
 }
 
 const config = {
-  channelAccessToken: 'K5VaIhobDO40OoP4BGXGAE6n/j+M69VuvLufJiO5HPqhU1CV36XLnRGdeRhOCUjxBvTMTDLy2RAFpcwOOI2TPky+dKjRc/0SFGpHSGnFOLNqNEVohlxH8PyLLHxHKUjLCzK0iN3+lFfdZK4UvNM2KAdB04t89/1O/w1cDnyilFU=',
-  channelSecret: '1083c92b67632d33818a14c6a5eeeb3c',
+  channelAccessToken: '',
+  channelSecret: '',
 };
 
 const app = express();
